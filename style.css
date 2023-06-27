@@ -60,14 +60,12 @@ nav li {
 section {
   display: flex;
   width: 100%;
-
   background-color: #ffffff;
 }
 h2 {
   font-weight: 500;
   font-size: 40px;
   line-height: 20px;
-
   padding-bottom: 22px;
   margin: 30px 0;
   text-transform: uppercase; /* alterando para maiúsculas */
